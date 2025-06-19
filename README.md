@@ -64,7 +64,7 @@ public/               # Static assets (images, logos, etc.)
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ipl-analysis.git
+   git clone https://github.com/Prince8085/ipl-analysis.git
    cd ipl-analysis
    ```
 2. **Install dependencies:**
@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 For questions, suggestions, or collaboration:
 - GitHub Issues
-- Email: your.email@example.com
+- Email: kachhwahaprince@gmail.com
 
 ---
 
